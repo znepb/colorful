@@ -1,7 +1,7 @@
 # colorful.kst v1
 
 This repository serves an archive for colorful.kst, a custom-built store which sold colorful blocks on SwitchCraft 3. It also featured an ink
-cartridge filler, shulker box filler, remote monitoring, and other features.
+cartridge filler, shulker box filler, remote monitoring, and other features. I hope I didn't miss any components.
 
 This project also features an online tracker available for use. It is written in TypeScript using NextJS and Tailwind.
 
